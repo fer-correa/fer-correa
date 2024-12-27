@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working at - [Mercado Livre](https://mercadolivre.com.br)
-- 📖 Recommened reads: Thinking, Fast and Slow by Daniel Kahneman
+- 📖 Recommended reads: Thinking, Fast and Slow by Daniel Kahneman
 - 💬 Ask me about open source and innersource
 
 

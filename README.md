@@ -2,6 +2,10 @@
 Mercado Libre's OSPO Member | Sr. Software Engineer<br>
 Bachelor's Degree in Computer Science | MBA Strategic Business Management | MBA Data Science & Analytics
 
+## Recommended Projects to Check Out
+ - [ospo-book](https://github.com/todogroup/ospo-book)
+ - [mangaba-ai](https://github.com/dheiver2/mangaba_ai)
+
 ## Affiliations
  - [TODO OSPO Ambassador](https://todogroup.org/community/ambassadors/)
  - Member, [InnerSource Commons Foundation](https://innersourcecommons.org/about/members/)

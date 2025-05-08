@@ -13,6 +13,7 @@ Bachelor's Degree in Computer Science | MBA Strategic Business Management | MBA 
 ## Recommended Projects to Check Out
  - [ospo-book](https://github.com/todogroup/ospo-book)
  - [mangaba-ai](https://github.com/dheiver2/mangaba_ai)
+ - [BuildCLI](https://buildcli.dev/)
 
 ## Stats
 <p align="justify">

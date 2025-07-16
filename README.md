@@ -11,9 +11,9 @@ Bachelor's Degree in Computer Science | MBA Strategic Business Management | MBA 
 - :studio_microphone: **OSPO LATAM Meetups:** [OSPO @ Latam - Mercado Libre's journey](https://www.youtube.com/live/ZV-K7In0qao?si=p0AdFr6yywyCU3Le)
 
 ## Recommended Projects to Check Out
- - [ospo-book](https://github.com/todogroup/ospo-book)
- - [mangaba-ai](https://github.com/dheiver2/mangaba_ai)
+ - [OSPO Book](https://github.com/todogroup/ospo-book)
  - [BuildCLI](https://buildcli.dev/)
+ - [mangaba-ai](https://github.com/dheiver2/mangaba_ai)
 
 ## Stats
 <p align="justify">

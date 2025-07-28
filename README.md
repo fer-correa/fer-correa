@@ -1,4 +1,4 @@
-# Fernando Correa | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-eugenio-correa/)](https://www.linkedin.com/in/fernando-eugenio-correa/) | [![KubeDay_Col_2024_Speaker](https://img.shields.io/badge/-LinuxFoundation-darkblue?style=flat-square&logo=LinuxFoundation&logoColor=white&link=https://www.credly.com/badges/7181d232-2624-4876-b9a5-8ac85fc5e3d4)](https://www.credly.com/badges/7181d232-2624-4876-b9a5-8ac85fc5e3d4)
+# Fernando Correa | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-eugenio-correa/)](https://www.linkedin.com/in/fernando-eugenio-correa/)
 Mercado Libre's OSPO Member | Sr. Software Engineer<br>
 Bachelor's Degree in Computer Science | MBA Strategic Business Management | MBA Data Science & Analytics
 
@@ -11,7 +11,7 @@ Bachelor's Degree in Computer Science | MBA Strategic Business Management | MBA 
 - :studio_microphone: **OSPO LATAM Meetups:** [OSPO @ Latam - Mercado Libre's journey](https://www.youtube.com/live/ZV-K7In0qao?si=p0AdFr6yywyCU3Le)
 
 ## Recommended Projects to Check Out
- - [OSPO Book](https://github.com/todogroup/ospo-book)
+ - [OSPO Book](https://ospobook.todogroup.org/)
  - [BuildCLI](https://buildcli.dev/)
  - [mangaba-ai](https://github.com/dheiver2/mangaba_ai)
 

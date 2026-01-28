@@ -1,6 +1,6 @@
 # Fernando Correa | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-eugenio-correa/)](https://www.linkedin.com/in/fernando-eugenio-correa/)
 Mercado Libre's OSPO Member | Sr. Software Engineer<br>
-Bachelor's Degree in Computer Science | MBA Strategic Business Management | MBA Data Science & Analytics
+Bachelor's Degree in Computer Science | MBA Strategic Business Management | MBA Data Science & Analytics | MBA Software Engineering with AI
 
 ## Affiliations
  - [TODO OSPO Ambassador](https://todogroup.org/community/ambassadors/)
